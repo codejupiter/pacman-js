@@ -5,7 +5,7 @@
 
 Pacman clone made with Javascript, HTML, and CSS.
 
-### *__[Play it!](https://starlit-nougat-414300.netlify.app)__*
+### *__(https://starlit-nougat-414300.netlify.app)__*
 
 🍒🍓🍊🍎🍈👾🔔🔑
 
